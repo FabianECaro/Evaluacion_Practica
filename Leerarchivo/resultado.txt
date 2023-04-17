@@ -1,0 +1,21 @@
+Numero total de lineas es: 5
+El numero total de palabras es: 26
+El numero total de caracteres es: 158
+
+ La palabra 'hola' tiene una frecuencia de: 1
+ La palabra 'mi' tiene una frecuencia de: 2
+ La palabra 'nombre' tiene una frecuencia de: 1
+ La palabra 'es' tiene una frecuencia de: 1
+ La palabra 'fabian' tiene una frecuencia de: 1
+ La palabra 'soy' tiene una frecuencia de: 1
+ La palabra 'estudiante' tiene una frecuencia de: 1
+ La palabra 'de' tiene una frecuencia de: 2
+ La palabra 'ingenieria' tiene una frecuencia de: 1
+ La palabra 'informatica' tiene una frecuencia de: 2
+ La palabra 'la' tiene una frecuencia de: 2
+ La palabra 'universidad' tiene una frecuencia de: 2
+ La palabra 'santo' tiene una frecuencia de: 2
+ La palabra 'tomas' tiene una frecuencia de: 2
+ La palabra 'me' tiene una frecuencia de: 2
+ La palabra 'gusta' tiene una frecuencia de: 2
+ La palabra 'y' tiene una frecuencia de: 1
